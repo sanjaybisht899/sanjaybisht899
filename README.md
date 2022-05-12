@@ -12,10 +12,9 @@ sanjaybisht899/sanjaybisht899 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaybisht8999&hide=css,html&langs_count=8&layout=compact&theme=gotham)](https://github.com/sanjaybisht8999/github-readme-stats)
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgad31vn&hide=css,html&langs_count=8&layout=compact&theme=gotham)](https://github.com/lgad31vn/github-readme-stats) -->
 
-  ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaybisht8999&hide=stars&show_icons=true&theme=gotham)
+  ![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaybisht8999&hide=stars&show_icons=true&theme=gotham)
 
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanjaybisht8999&theme=gotham)  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanjaybisht8999&theme=gotham&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   ![Profile views](https://gpvc.arturio.dev/sanjaybisht8999)
-<!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lgad31vn&repo=Hashtology-dapp&theme=gotham)](https://github.com/lgad31vn/Hashtology-dapp) -->
+ 
