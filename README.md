@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Web Projects and Chrome Extinctions.
 - 📫 Reach me ... here https://www.linkedin.com/in/sanjaybisht8999/
 - Coding Profiles:
-- LeetCode: https://leetcode.com/sanjaybisht8999  
-- GeeksforGeeks: https://auth.geeksforgeeks.org/user/sanjaybisht899
+LeetCode: https://leetcode.com/sanjaybisht8999  
+GeeksforGeeks: https://auth.geeksforgeeks.org/user/sanjaybisht899
 
 <!---
 sanjaybisht899/sanjaybisht899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
