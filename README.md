@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/sanjaybisht1998" target="blank"><img src="https://img.shields.io/twitter/follow/sanjaybisht1998?logo=twitter&style=for-the-badge" alt="sanjaybisht1998" /></a> </p>
 
-- 🔭 I’m currently working on **JavaFX**
+- 🔭 I’m currently working on **Web Development & Chrome Extinctions**
 
-- 🌱 I’m currently learning **Spring, SpringBoot & JavaFX**
+- 🌱 I’m currently learning **Spring, SpringBoot & Rest API**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 🤝 I’m looking for help with **JavaFX**
+- 🤝 I’m looking for help with **Web Development & Rest API**
 
-- 💬 Ask me about **DataStructures**
+- 💬 Ask me about **DataStructures, Programming & Web Dev**
 
 - 📫 How to reach me **sanjaybisht8999@gmail.com**
 
