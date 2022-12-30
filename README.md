@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaybisht899&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaybisht899" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sanjaybisht1998" target="blank"><img src="https://img.shields.io/twitter/follow/sanjaybisht1998?logo=twitter&style=for-the-badge" alt="sanjaybisht1998" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development & Chrome Extinctions**
 
