@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/a6S35wgiCOsAAAAC/deku-java.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaybisht899&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaybisht899" /> </p>
-
-
 - 🔭 I’m currently working on **Web Development & Chrome Extinctions**
 
 - 🌱 I’m currently learning **Spring, SpringBoot & Rest API**
